@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Fran Belfort
 
 - 🔭 Hoje estou iniciando na area de programaçao
-- 🌱 Eestudando sobre tudo e mais um pouco
+- 🌱 Estudando sobre tudo e mais um pouco
 - 🤔 Estou procurando ajuda para iniciantes na programaçao
 - 📫 Contate-me pelo email fbelfortt@outlook.com
 - 😄Pronomes: ela/dela
