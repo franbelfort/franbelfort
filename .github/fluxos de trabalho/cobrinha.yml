@@ -1,7 +1,7 @@
 nome: Gerar Dados
 
 em:
-  horário: # executar a cada 12 horas
+  horário: # executar a cada 10 horas
     - cron: "* */12 * * * *
   workflow_dispatch:
 
