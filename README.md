@@ -22,5 +22,4 @@
     
   </div>
   
-    <img src="![Snake animation](https://github.com/franbelfort/franbelfort/blob/output/github-contribution-grid-snake.svg"/>
-  ##
+    ##
