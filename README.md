@@ -4,7 +4,7 @@
 - 🌱 Estudando sobre tudo e mais um pouco
 - 🤔 Estou procurando ajuda para iniciantes na programaçao
 - 📫 Contate-me pelo email fbelfortt@outlook.com
-- 😄Pronomes: ela/dela
+- 
 <div align="center">
   <a href="https://github.com/franbelfort">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franbelfort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
