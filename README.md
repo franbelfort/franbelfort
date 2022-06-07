@@ -5,7 +5,7 @@
 - 📫 Contate-me pelo email fbelfortt@outlook.com
 
 <div align="center">
-  <a href="https://github.com/franbelfort">
+  <a href="https://github.com/franbelfort/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franbelfort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franbelfort&layout=compact&langs_count=7&theme=dracula"/>
 </div>
