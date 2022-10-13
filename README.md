@@ -1,4 +1,4 @@
-## Oie! Eu sou a Fran Belfort
+## Oie! Eu sou a Franciely Belfort
 
 - 🔭 Dev Front-End
 - 📫 Contate-me pelo email fbelfortt@outlook.com
