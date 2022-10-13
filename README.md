@@ -1,7 +1,6 @@
 ## Oie! Eu sou a Fran Belfort
 
-- 🔭 Hoje estou iniciando na area de programaçao
-- 🌱 Estudando sobre Javascript
+- 🔭 Dev Front-End
 - 📫 Contate-me pelo email fbelfortt@outlook.com
 
 <div align="center">
